@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @08ben2011
 - 👀 I’m interested in learning Web Development
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me https://www.linkedin.com/in/beniamin-f-6285a5248
+- 🌱 I build flutter apps, android and iOS

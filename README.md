@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @08ben2011
-- 👀 I’m interested in learning Web Development
+- 👀 I’m interested in learning app development
 - 🌱 I build flutter apps, android and iOS
